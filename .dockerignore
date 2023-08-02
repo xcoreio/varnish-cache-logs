@@ -1,0 +1,3 @@
+.*
+!default.vcl
+!docker-entrypoint.sh
